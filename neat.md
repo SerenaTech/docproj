@@ -36,5 +36,13 @@ A-->B
 You can put a title in under the diagram type.
 
 -->"C4Context"
+
 -->"title Much Learning"
 
+```mermaid
+C4Context
+title System Context diagram for Internet Banking System
+
+Person(customerA, "Banking Customer A", "A customer of the bank, with personal bank accounts.")
+
+```
