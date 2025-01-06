@@ -31,6 +31,7 @@ For example --> flowchart
 flowchart LR
 A-->B
 
+```
 #### Much learning ####
 
 You can put a title in under the diagram type.
