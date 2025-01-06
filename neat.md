@@ -43,6 +43,7 @@ You can put a title in under the diagram type.
 C4Context
 title Much Learning
 
-Person(customerA)
+Person(customerA){
+}
 
 ```
