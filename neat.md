@@ -31,3 +31,13 @@ For example --> flowchart
 flowchart LR
 A-->B
 
+#### Much learning
+You can put a title in under the diagram type.
+
+-- C4Context
+-- title Much Learning
+
+```mermaid
+C4Context
+title Much Learning
+Person(customerA)-->Enterprise(Much Learning)
