@@ -40,11 +40,10 @@ You can put a title in under the diagram type.
 -->"title Much Learning"
 
 ```mermaid
-
-flowchart
-
-title much learning
-
-A-->B
+---
+title: Node with text
+---
+flowchart LR
+    id1[This is the text in the box]
 
 ```
