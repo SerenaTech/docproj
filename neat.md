@@ -34,8 +34,8 @@ A-->B
 #### Much learning ####
 You can put a title in under the diagram type.
 
--- C4Context
--- title Much Learning
+->C4Context
+-->title Much Learning
 
 ```mermaid
 C4Context
