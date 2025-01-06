@@ -14,3 +14,11 @@ CURRENTLY it’s easiest to set up your own PDS via DigitalOcean
 Launch a server on any cloud provider, Digital Ocean and Vultr are two popular choices.
 You can REALLY set up your own PDS with your own server - the server of choice appears to be Raspberry PI 
 https://en.wikipedia.org/wiki/Raspberry_Pi
+
+## Markdown and Mermaid
+Markdown requires an extension for some applications but it is already enabled in others.
+### Mermaid ###
+Mermaid is enabled for Markdown (I think) but must always include 
+```mermaid
+
+At the start of a Mermaid diagram.
