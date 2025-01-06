@@ -40,10 +40,9 @@ You can put a title in under the diagram type.
 -->"title Much Learning"
 
 ```mermaid
-C4Context
-title Much Learning
+Flowchart
+title much learning
 
-Person(customerA){
-}
+A-->B
 
 ```
