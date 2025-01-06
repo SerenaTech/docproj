@@ -24,5 +24,10 @@ Mermaid is enabled for Markdown (I think) but must always include
 -->```mermaid
 
 At the start of a Mermaid diagram. The Mermaid diagram must also specify which type of diagram to be displayed.
-For example --> 
+
+For example --> flowchart LR
+
+```mermaid
+flowchart LR
+A-->B
 
