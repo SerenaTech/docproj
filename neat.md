@@ -19,6 +19,7 @@ https://en.wikipedia.org/wiki/Raspberry_Pi
 Markdown requires an extension for some applications but it is already enabled in others.
 <a href="https://www.markdownguide.org">Markdown Guide</a>
 ### Mermaid ###
+<a href="https://github.com/mermaid-js/mermaid?tab=readme-ov-file">Mermaid on Github</a>
 Mermaid is enabled for Markdown (I think) but must always include 
 -->```mermaid
 
