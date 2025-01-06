@@ -19,6 +19,6 @@ https://en.wikipedia.org/wiki/Raspberry_Pi
 Markdown requires an extension for some applications but it is already enabled in others.
 ### Mermaid ###
 Mermaid is enabled for Markdown (I think) but must always include 
-```mermaid
+-->```mermaid
 
 At the start of a Mermaid diagram.
