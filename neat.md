@@ -44,6 +44,8 @@ You can put a title in under the diagram type.
 title: Node with text
 ---
 flowchart LR
+title much learning
+
     id1[This is the text in the box]
 
 ```
