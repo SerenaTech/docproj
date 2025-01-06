@@ -40,7 +40,7 @@ You can put a title in under the diagram type.
 -->"title Much Learning"
 
 ```mermaid
-Flowchart
+flowchart
 title much learning
 
 A-->B
