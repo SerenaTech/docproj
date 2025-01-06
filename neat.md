@@ -41,10 +41,9 @@ You can put a title in under the diagram type.
 
 ```mermaid
 ---
-title: Node with text
+title: much learning
 ---
 flowchart LR
-title much learning
 
     id1[This is the text in the box]
 
