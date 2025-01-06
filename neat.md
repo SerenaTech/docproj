@@ -41,8 +41,8 @@ You can put a title in under the diagram type.
 
 ```mermaid
 C4Context
-title System Context diagram for Internet Banking System
+title Much Learning
 
-Person(customerA, "Banking Customer A", "A customer of the bank, with personal bank accounts.")
+Person(customerA)
 
 ```
